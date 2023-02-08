@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Michelle Fernandez</h1>
-<h3 align="center">Me considero un apasionado de la programación y estoy en constante búsqueda de nuevos desafíos para desarrollar mis habilidades.</h3>
+<h3 align="center">Me considero una apasionada de la programación y estoy en constante búsqueda de nuevos desafíos para desarrollar mis habilidades.</h3>
 
 - 📫 Puedes contactarme por: **fernandezm525@gmail.com**
 - 👨‍💻 Puedes saber un poco más de mi en mi portafolio: **MichelleFernandez.com**
