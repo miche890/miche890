@@ -10,7 +10,7 @@
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/michelle-dayan-obando-fernandez-4698b522b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo adolfo ramirez" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/miche890/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo adolfo ramirez" height="30" width="40" /></a>
 <a href="https://es.stackoverflow.com/users/316715/michelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="316004/gustavo" height="30" width="40" /></a>
 </p>
 
