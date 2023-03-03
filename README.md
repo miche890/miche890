@@ -6,7 +6,7 @@ Soy una desarrolladora junior, en constante búsqueda de nuevos desafíos para m
 ---
 
 ### Contactame conmigo
-- [Email](fernandezm525@gmail.com)
+- fernandezm525@gmail.com
 - [Linkedin](https://www.linkedin.com/in/miche890/)
 
 ---
