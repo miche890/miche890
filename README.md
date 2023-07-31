@@ -13,7 +13,7 @@ Soy una desarrolladora junior, en constante búsqueda de nuevos desafíos para m
 
 ### Habilidades tecnicas
 - 💻 Lenguajes de programación: Python, Java, HTML, CSS, JavaScript.
-- 🚀 Frameworks: flask.
+- 🚀 Frameworks: Django.
 - 🗃️ Bases de datos: MySQL.
 - 📚 Control de versiones: Git.
 - 🖍 Diseño: Figma
